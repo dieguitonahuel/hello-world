@@ -1,2 +1,5 @@
 # hello-world
-Repositorio de prueba
+
+¡Hola!
+
+Estoy practicando para saber usar correctamente la plataforma de GitHub.
